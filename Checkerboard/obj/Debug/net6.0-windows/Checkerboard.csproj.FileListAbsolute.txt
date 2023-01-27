@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\bin\Debug\net6.0-windows\Checkerboard.exe
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\bin\Debug\net6.0-windows\Checkerboard.deps.json
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\bin\Debug\net6.0-windows\Checkerboard.runtimeconfig.json
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\bin\Debug\net6.0-windows\Checkerboard.dll
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\bin\Debug\net6.0-windows\Checkerboard.pdb
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.Form1.resources
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.csproj.GenerateResource.cache
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.AssemblyInfo.cs
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.dll
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\refint\Checkerboard.dll
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.pdb
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\Checkerboard.genruntimeconfig.cache
+C:\Users\User\Desktop\C#\Checkerboard\Checkerboard\obj\Debug\net6.0-windows\ref\Checkerboard.dll
